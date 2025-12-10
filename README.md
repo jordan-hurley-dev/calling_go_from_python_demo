@@ -1,4 +1,4 @@
-## WIP Rudimentary Contact Validation Demo
-Compares the performance of a Go shared library function against a pure Python implementation for validating contact information.
+## Calling Go from Python Demo
+These implementations of validation for both languages aren't very optimized.
 
-The implementation in its current state is not realistic and isn't optimized for either language.
+Results of this demo in its current state should not be used to draw conclusions about the performance of either language.
